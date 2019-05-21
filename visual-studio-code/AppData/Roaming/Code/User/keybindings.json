@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+alt+left",
+        "command": "-workbench.action.moveEditorToPreviousGroup"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "cursorWordPartLeft"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "cursorWordPartRight"
+    },
+    {
+        "key": "ctrl+shift+alt+left",
+        "command": "cursorWordPartLeftSelect"
+    },
+    {
+        "key": "ctrl+shift+alt+right",
+        "command": "cursorWordPartRightSelect"
+    }
+]

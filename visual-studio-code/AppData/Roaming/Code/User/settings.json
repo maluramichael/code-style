@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "One Monokai",
+    "explorer.openEditors.visible": 0,
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "simple-icons",
+    "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe",
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnType": true,
+    "editor.detectIndentation": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.tabCompletion": "on",
+    "git.confirmSync": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.minimap.renderCharacters": false,
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {},
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single",
+    "files.hotExit": "off",
+    "GodotTools.editorPath": "C:\\tools\\Godot_v3.1-stable_win64.exe\\Godot_v3.1-stable_win64.exe",
+    "GodotTools.completeNodePath": true,
+    "GodotTools.godotVersion": 3.1,
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all"
+}
